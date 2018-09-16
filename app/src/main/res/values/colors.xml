@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ab47bc</color>
+    <color name="colorPrimaryDark">#8e24aa</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="us_news">#f06292</color>
+    <color name="football">#aa00ff</color>
+    <color name="world_news">#d50000</color>
+    <color name="politics">#9c27b0</color>
+    <color name="business">#00695c</color>
+    <color name="australia_news">#558b2f</color>
+    <color name="science">#f57f17</color>
+    <color name="sport">#aeea00</color>
+    <color name="art_and_design">#e65100</color>
+    <color name="music">#26c6da</color>
+    <color name="opinion">#1de9b6</color>
+    <color name="environment">#9e9d24</color>
+    <color name="society">#ffd600</color>
+    <color name="uk_news">#6d4c41</color>
+    <color name="film">#e57373</color>
+    <color name="television_and_radio">#e91e63</color>
+    <color name="default_color">#8e24aa</color>
+</resources>
