@@ -1,13 +1,11 @@
 # Sixth Project - News App, Stage 1
 
-
-## PROJECT SPECIFICATIONS
+PROJECT SPECIFICATIONS
 
 1. App contains a main screen which displays multiple news stories.
 
-2. Each list item on the main screen displays relevant text and information about the story. The title of the article and the name of the section that it belongs to are required field. 
-   If available, author name and date published should be included. Please note not all responses will contain these pieces of data, but it is required to include them if they are present.
-   Images are not required.
+2. Each list item on the main screen displays relevant text and information about the story. The title of the article and the name of the    section that it belongs to are required field. 
+   If available, author name and date published should be included. Please note not all responses will contain these pieces of data, but      it is required to include them if they are present. Images are not required.
    
 3. Stories shown on the main screen update properly whenever new news data is fetched from the API.
 
@@ -26,6 +24,7 @@
 10. Networking operations are done using a Loader rather than an AsyncTask.
 
 11. The intent of this project is to give you practice writing raw Java code using the necessary classes provided by the Android framework; therefore, the use of external libraries for the core functionality will not be permitted to complete this project. 
+
 
 
 # App Screenshots
