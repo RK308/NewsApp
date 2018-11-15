@@ -1,7 +1,12 @@
 <resources>
     <string name="app_name">News App</string>
-    <string name="author">Author : </string>
-    <string name="published">Published on : </string>
+    <!-- Using \u0020 for space at the end of the string. -->
+    <string name="section">Section :\u0020</string>
+    <string name="author">Author :\u0020</string>
+    <string name="published">Published on :\u0020</string>
     <string name="no_news">No news!</string>
-    <string name="no_internet">No internet connection./n Check your Wi-Fi!</string>
+    <string name="no_internet">No internet connection.\nCheck your Wi-Fi!</string>
+    <string name="test" translatable="false">5ccf4c32&#8211;aff6&#8211;433d&#8211;9091&#8211;626fd9cd813e</string>
+    <string name="url_first_part" translatable="false"><![CDATA[https://content.guardianapis.com/search?page-size=100&show-fields=thumbnail,byline]]></string>
+    <string name="url_second_part" translatable="false"><![CDATA[&order-by=newest&api-key=5ccf4c32-aff6-433d-9091-626fd9cd813e]]></string>
 </resources>

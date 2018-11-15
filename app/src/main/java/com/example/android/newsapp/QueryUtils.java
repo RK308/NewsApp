@@ -188,7 +188,10 @@ public final class QueryUtils {
                 String author = fieldsObject.getString("byline");
 
                 // Extract the value for the key called "thumbnail"
-                Drawable thumbnail = createDrawableFromUrl(fieldsObject.getString("thumbnail"));
+                Drawable thumbnail = null;
+                if (fieldsObject.has("thumbnail")){
+                    thumbnail = createDrawableFromUrl(fieldsObject.getString("thumbnail"));
+                }
 
                 // Create a new {@link NewsItem} object with the sectionName, date, title, author, thumbnail
                 // and url from the JSON response.
